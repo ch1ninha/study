@@ -1,0 +1,1 @@
+Aqui tem um arquivo com o nome 'teste.txt', vamos usar ele para aprender python :D !
