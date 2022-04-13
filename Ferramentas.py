@@ -23,7 +23,9 @@ def check_prime(n):
 
     
 def gen_sieve_of_era():
-    for i in range(2,100):
+    i = 0
+    while True:
+        i += 1
         if i % 2 == 0:
             if i == 2:
                 yield i
