@@ -9,5 +9,6 @@ Repositório para manter códigos ou afins referente a estudo, algo aleatório q
 - 🌠 [Anki](/anki)
     - [Challenge Python](/anki/challenge-python)
 - 🎓 [Cursos da MIT OpenCourseWare](https://github.com/chininhaNortao/mit-opencourseware)
-    - [Introduction to computer science and programming in python](/mit-opencourseware/introduction-CS-and-programming-python)
+    - [Introduction to computer science and programming in python](https://github.com/chininhaNortao/mit-opencourseware/tree/main/introduction-CS-and-programming-python)
 - 🤿 [Site criado durante Imersão na Alura](https://github.com/chininhaNortao/chininha-mind)
+- 🔥 [Desafios](/challenges)
